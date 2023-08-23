@@ -15,7 +15,7 @@ jobs:
         uses: abordage/wakatime-box@master
         env:
           # SUPPORTED: last_7_days, last_30_days, last_6_months, last_year
-          INPUT_DATE_RANGE: last_7_days
+          INPUT_DATE_RANGE: last_year
           # NUMBER OF LANGUAGES DISPLAYED
           INPUT_MAX_RESULT: 5
           #
